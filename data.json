@@ -1,0 +1,12 @@
+{
+	"docs": {
+			"tes": {
+				"name": "tes",
+				"router": "/tes",
+				"category": "#horny",
+				"is_query": true,
+				"query": "url",
+				"status_online": true
+			}
+		}
+}
